@@ -33,4 +33,4 @@ Edit that file's values and open a PR. Completing **de.json** / **tr.json** is v
 - Match the friendly, concise style of the English/Spanish text.
 
 ## Workflow
-Fork → edit → **Pull Request**. A maintainer reviews (German and Turkish are key markets) and merges. Merged PRs get pulled into the app and go live on the next release. Thank you! 🛰️ — *(icon here is fine, this is a dev doc, not app UI)*
+Fork → edit → **Pull Request**. A maintainer reviews (German and Turkish are key markets) and merges. Merged PRs get pulled into the app and go live on the next release. Thank you! 🛰️ — 
