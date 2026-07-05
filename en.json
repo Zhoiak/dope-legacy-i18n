@@ -1911,6 +1911,7 @@
   "acc.grp.siblings_tip": "Your accounts that can group with this one: on THE SAME server, or on a MERGE-compatible server (same merged world even if the original server differs). Only accounts that did Load at least once appear. Click 'Invite' to send InvitationCreationRequest to the pilot.",
   "acc.grp.merge_badge": "merged server",
   "acc.grp.ingame_as": "in-game:",
+  "acc.grp.invite_needs_running": "Start this account first — you can only invite a connected account (and that's how we use its exact in-game name).",
   "acc.grp.merge_tip": "Different original server, but merged into the same world as this account → they can still group.",
   "acc.grp.invite_group": "Invite to group",
   "acc.grp.no_siblings_pre": "You don't have other confirmed accounts on ",

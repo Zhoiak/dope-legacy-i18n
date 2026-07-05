@@ -1911,6 +1911,7 @@
   "acc.grp.siblings_tip": "Deine Konten, die mit diesem gruppieren können: auf DEMSELBEN Server oder auf einem MERGE-kompatiblen Server (gleiche zusammengeführte Welt, auch wenn der Originalserver abweicht). Nur Konten, die mindestens einmal Load gemacht haben, erscheinen. Klicke 'Einladen', um InvitationCreationRequest an den Piloten zu senden.",
   "acc.grp.merge_badge": "zusammengeführter Server",
   "acc.grp.ingame_as": "im Spiel:",
+  "acc.grp.invite_needs_running": "Starte dieses Konto zuerst — du kannst nur ein verbundenes Konto einladen (und so nutzen wir seinen exakten Spielnamen).",
   "acc.grp.merge_tip": "Anderer Originalserver, aber in dieselbe Welt wie dieses Konto zusammengeführt → sie können dennoch gruppieren.",
   "acc.grp.invite_group": "In die Gruppe einladen",
   "acc.grp.no_siblings_pre": "Du hast keine anderen bestätigten Konten auf ",

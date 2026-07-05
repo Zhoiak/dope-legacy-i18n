@@ -1911,6 +1911,7 @@
   "acc.grp.siblings_tip": "Bununla gruplanabilecek hesapların: AYNI sunucuda ya da birleştirme uyumlu bir sunucuda (orijinal sunucu farklı olsa bile aynı birleştirilmiş dünya). Yalnızca en az bir kez Load yapmış hesaplar görünür. 'Davet et'e tıklamak pilota InvitationCreationRequest gönderir.",
   "acc.grp.merge_badge": "birleştirilmiş sunucu",
   "acc.grp.ingame_as": "oyunda:",
+  "acc.grp.invite_needs_running": "Önce bu hesabı başlat — yalnızca bağlı bir hesap davet edilebilir (ve tam oyun içi adını böyle kullanırız).",
   "acc.grp.merge_tip": "Orijinal sunucu farklı, ama bu hesapla aynı dünyada birleştirilmiş → yine de gruplanabilirler.",
   "acc.grp.invite_group": "Gruba davet et",
   "acc.grp.no_siblings_pre": "Şu sunucuda onaylanmış başka hesabın yok: ",

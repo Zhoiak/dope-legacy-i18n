@@ -1911,6 +1911,7 @@
   "acc.grp.siblings_tip": "Cuentas tuyas que pueden agruparse con esta: en EL MISMO server, o en un server FUSIONADO compatible (mismo mundo aunque el server original sea distinto). Solo aparecen cuentas que hicieron Load al menos una vez. Click 'Invitar' manda InvitationCreationRequest al pilot.",
   "acc.grp.merge_badge": "servidor fusionado",
   "acc.grp.ingame_as": "en el juego:",
+  "acc.grp.invite_needs_running": "Iniciá esta cuenta primero — solo se puede invitar a una cuenta conectada (y así usamos su nick in-game exacto).",
   "acc.grp.merge_tip": "Server original distinto, pero fusionado al mismo mundo que el de esta cuenta → pueden agruparse igual.",
   "acc.grp.invite_group": "Invitar al grupo",
   "acc.grp.no_siblings_pre": "No tenés otras cuentas confirmadas en ",
