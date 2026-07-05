@@ -2067,6 +2067,7 @@
   "acc.hud.combat_tether": "Saldıran → kurban çizgisi <small>(hafif kırmızı, 1,5 sn'de söner)</small>",
   "acc.hud.bot_target": "Asistanın hedefi <small>(saldırılan NPC üzerinde kırmızı çizgi + halka, her zaman en üstte)</small>",
   "acc.hud.gg_npc_counter": "Geçitteki NPC sayacı <small>(canlı / dalga toplamı)</small>",
+  "acc.hud.captcha_counter": "Captcha sayacı <small>(toplam / ok / başarısız, sağ üst)</small>",
   "acc.hud.labels_sec": "Etiketler <small style=\"font-weight:400;text-transform:none;letter-spacing:0;color:var(--dim)\">— işaretçilerin üzerinde hangi metnin gösterileceği</small>",
   "acc.hud.labels_all": "Tüm etiketleri göster <small>ana anahtar · KAPALI = mini haritada hiç metin yok</small>",
   "acc.hud.lbl_players": "Oyuncu adları",

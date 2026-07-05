@@ -2067,6 +2067,7 @@
   "acc.hud.combat_tether": "Kampf-Linie",
   "acc.hud.bot_target": "Ziel",
   "acc.hud.gg_npc_counter": "NPC Zähler",
+  "acc.hud.captcha_counter": "Captcha-Zähler <small>(gesamt / ok / fehlgeschlagen, oben rechts)</small>",
   "acc.hud.labels_sec": "Labels",
   "acc.hud.labels_all": "Alle Label",
   "acc.hud.lbl_players": "Spieler",

@@ -2067,6 +2067,7 @@
   "acc.hud.combat_tether": "Attacker → victim line <small>(subtle red, fade 1.5s)</small>",
   "acc.hud.bot_target": "Assistant target <small>(red line + ring over the attacked NPC, always on top)</small>",
   "acc.hud.gg_npc_counter": "Gate NPC counter <small>(alive / wave total)</small>",
+  "acc.hud.captcha_counter": "Captcha counter <small>(total / ok / failed, top-right)</small>",
   "acc.hud.labels_sec": "Labels <small style=\"font-weight:400;text-transform:none;letter-spacing:0;color:var(--dim)\">— what text to show over the markers</small>",
   "acc.hud.labels_all": "Show all labels <small>master · OFF = no text on the minimap</small>",
   "acc.hud.lbl_players": "Player names",

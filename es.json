@@ -2067,6 +2067,7 @@
   "acc.hud.combat_tether": "Línea atacante → víctima <small>(roja sutil, fade 1.5s)</small>",
   "acc.hud.bot_target": "Objetivo del asistente <small>(línea + aro rojos sobre el NPC atacado, siempre arriba)</small>",
   "acc.hud.gg_npc_counter": "Contador de NPCs en la puerta <small>(vivos / total de la oleada)</small>",
+  "acc.hud.captcha_counter": "Contador de captchas <small>(total / ok / fallados, arriba a la derecha)</small>",
   "acc.hud.labels_sec": "Etiquetas <small style=\"font-weight:400;text-transform:none;letter-spacing:0;color:var(--dim)\">— qué texto mostrar sobre los markers</small>",
   "acc.hud.labels_all": "Mostrar todas las etiquetas <small>master · OFF = ningún texto en el minimapa</small>",
   "acc.hud.lbl_players": "Nombre de jugadores",
