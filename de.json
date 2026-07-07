@@ -301,7 +301,7 @@
   "billing.checkout_modal.method_paymentwall_sub": "Lateinamerikanische Karten, Banküberweisungen, Krypto, Prepaid.",
   "billing.checkout_modal.pay_paymentwall": "Mit PaymentWall bezahlen",
   "billing.paymentwall.failure": "Zahlung über PaymentWall konnte nicht gestartet werden. Versuche es erneut oder wähle eine andere Methode.",
-  "billing.checkout_modal.method_stripe": "Kredit-/Debitkarte",
+  "billing.checkout_modal.method_stripe": "Kredit-/Debitkarte · Visa, Mastercard, Amex",
   "billing.checkout_modal.method_stripe_sub": "Sichere Kartenzahlung über Stripe (Visa, Mastercard usw.).",
   "billing.checkout_modal.pay_stripe": "Mit Karte zahlen",
   "billing.stripe.sandbox_notice": "Testmodus: es wird kein echtes Geld abgebucht.",

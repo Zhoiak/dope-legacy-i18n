@@ -301,7 +301,7 @@
   "billing.checkout_modal.method_paymentwall_sub": "Latin Amerika kartları, banka havaleleri, kripto, ön ödemeli kartlar.",
   "billing.checkout_modal.pay_paymentwall": "PaymentWall ile öde",
   "billing.paymentwall.failure": "PaymentWall ödemesi başlatılamadı. Tekrar dene veya başka bir yöntem seç.",
-  "billing.checkout_modal.method_stripe": "Kredi/banka kartı",
+  "billing.checkout_modal.method_stripe": "Kredi/banka kartı · Visa, Mastercard, Amex",
   "billing.checkout_modal.method_stripe_sub": "Stripe ile güvenli kart ödemesi (Visa, Mastercard vb.).",
   "billing.checkout_modal.pay_stripe": "Kartla öde",
   "billing.stripe.sandbox_notice": "Test modu: gerçek para tahsil edilmez.",
