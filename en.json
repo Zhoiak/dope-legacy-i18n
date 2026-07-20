@@ -2466,6 +2466,7 @@
   "acc.js.ship_state_alive": "alive",
   "acc.js.ship_state_dead": "DESTROYED",
   "acc.js.pet_state_active": "active",
+  "acc.js.pet_mining": "mining",
   "acc.js.pet_state_inactive": "inactive",
   "acc.hud.test_rings": "Test rings <small>(fixed distance)</small>",
   "acc.hud.test_rings_note": "distances in u — 0 hides that ring",

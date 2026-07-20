@@ -2466,6 +2466,7 @@
   "acc.js.ship_state_alive": "hayatta",
   "acc.js.ship_state_dead": "YOK EDİLDİ",
   "acc.js.pet_state_active": "aktif",
+  "acc.js.pet_mining": "topluyor",
   "acc.js.pet_state_inactive": "pasif",
   "acc.hud.test_rings": "Test halkaları <small>(sabit mesafe)</small>",
   "acc.hud.test_rings_note": "mesafeler u cinsinden — 0 o halkayı gizler",
