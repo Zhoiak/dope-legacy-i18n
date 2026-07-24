@@ -1860,6 +1860,7 @@
   "acc.gg.co_onecorner": "Corner farm",
   "acc.gg.side_left": "Left",
   "acc.gg.side_right": "Right",
+  "acc.gg.side_diag": "Diagonal ↖↘",
   "acc.gg.onecorner_offset": "One corner: offset (u)",
   "acc.gg.modparams_title": "Module parameters",
   "acc.gg.modparams_note": "Fine-tune the internal modules. Empty = default value (the placeholder). Can be overridden per gate/wave from the wave plan.",
@@ -4279,5 +4280,10 @@
   "acc.js.lab_speed": "Speed",
   "acc.js.lab_shield": "Shield",
   "acc.sys.q_givers_here": "Quest givers (this map)",
-  "acc.sys.q_giver_located": "located"
+  "acc.sys.q_giver_located": "located",
+  "acc.sys.q_giver": "Giver",
+  "acc.sys.q_giver_nopos": "not located",
+  "acc.sys.q_givers_none": "No quest givers on this map",
+  "acc.sys.q_cancel": "Cancel mission",
+  "acc.sys.q_cancel_confirm": "Cancel this mission? It frees up the logbook slot."
 }

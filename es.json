@@ -1860,6 +1860,7 @@
   "acc.gg.co_onecorner": "Farmeo en esquina",
   "acc.gg.side_left": "Izquierda",
   "acc.gg.side_right": "Derecha",
+  "acc.gg.side_diag": "Diagonal ↖↘",
   "acc.gg.onecorner_offset": "Una esquina: corrimiento (u)",
   "acc.gg.modparams_title": "Parámetros de módulos",
   "acc.gg.modparams_note": "Ajuste fino de los módulos internos. Vacío = valor por defecto (el placeholder). Se puede afinar por gate/oleada desde el plan de oleadas.",
@@ -4279,5 +4280,10 @@
   "acc.js.lab_speed": "Veloc.",
   "acc.js.lab_shield": "Escudo",
   "acc.sys.q_givers_here": "Dadores de misión (este mapa)",
-  "acc.sys.q_giver_located": "ubicados"
+  "acc.sys.q_giver_located": "ubicado",
+  "acc.sys.q_giver": "Dador",
+  "acc.sys.q_giver_nopos": "sin ubicar",
+  "acc.sys.q_givers_none": "Sin dadores en este mapa",
+  "acc.sys.q_cancel": "Cancelar misión",
+  "acc.sys.q_cancel_confirm": "¿Cancelar esta misión? Se libera el slot del registro."
 }
