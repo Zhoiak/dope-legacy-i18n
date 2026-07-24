@@ -1685,8 +1685,6 @@
   "acc.gg.stop_noenergy": "Parar cuando no quede energía gratis",
   "acc.gg.cadence_title": "Cadencia y vidas",
   "acc.gg.adaptive_spin": "Spin adaptativo (100 lejos del final, baja a 1 cerca)",
-  "acc.gg.auto_materialize": "Auto-materializar gates terminadas",
-  "acc.gg.auto_materialize_note": "Cada pasada escanea TODAS las gates (no solo la que construís) y coloca cualquiera terminada que aún no esté en el mapa — agarra las que construiste antes o a medias.",
   "acc.gg.spinonev_title": "Spinear solo durante eventos",
   "acc.gg.spinonev_note": "Marcá uno o más eventos: el spinner gira SOLO cuando alguno está activo (ahorra uridium). Sin marcar nada, gira siempre. El badge muestra si el evento está activo ahora.",
   "acc.gg.spinonev_ggday": "Día de Galaxy Gates",
