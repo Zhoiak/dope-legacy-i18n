@@ -4206,5 +4206,6 @@
   "accounts.panel_by_license": "El control desde la web viene incluido con la licencia activa de esta cuenta.",
   "accounts.cupos_tip": "Cupos de control web: en uso / total. Los que no están puestos no gastan tiempo.",
   "accounts.licencias_tip": "Licencias: en uso / disponibles. Se pueden mover entre cuentas cuando quieras.",
-  "download.closed": "Las descargas no están disponibles por el momento. Se abrirán al público más adelante."
+  "download.closed": "Las descargas no están disponibles por el momento. Se abrirán al público más adelante.",
+  "vivo.sesion_expirada": "Tu sesión terminó. Volvé a entrar para seguir viendo los datos al día."
 }

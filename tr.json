@@ -3808,5 +3808,6 @@
   "err.cliente.regenerar": "Önceki anahtar iptal edildi ancak yenisi oluşturulamadı. Aşağıdaki formu kullanarak bir tane oluşturun.",
   "billing.desktop_title": "Masaüstü uygulaması",
   "drawer.info_general": "Genel bilgi",
-  "drawer.bot_key": "Bot Key:"
+  "drawer.bot_key": "Bot Key:",
+  "vivo.sesion_expirada": "Oturumun sona erdi. Güncel verileri görmeye devam etmek için tekrar giriş yap."
 }

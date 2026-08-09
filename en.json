@@ -4206,5 +4206,6 @@
   "accounts.panel_by_license": "Web control comes included with this account's active licence.",
   "accounts.cupos_tip": "Web control slots: in use / total. The ones not applied don't spend time.",
   "accounts.licencias_tip": "Licences: in use / available. You can move them between accounts whenever you want.",
-  "download.closed": "Downloads are not available at the moment. They will open to the public later on."
+  "download.closed": "Downloads are not available at the moment. They will open to the public later on.",
+  "vivo.sesion_expirada": "Your session ended. Sign in again to keep seeing up-to-date data."
 }

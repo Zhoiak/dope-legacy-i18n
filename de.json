@@ -3808,5 +3808,6 @@
   "err.cliente.regenerar": "Der vorherige Schlüssel wurde widerrufen, der neue konnte aber nicht erstellt werden. Erstellen Sie einen über das Formular unten.",
   "billing.desktop_title": "Desktop-Anwendung",
   "drawer.info_general": "Allgemeine Informationen",
-  "drawer.bot_key": "Bot Key:"
+  "drawer.bot_key": "Bot Key:",
+  "vivo.sesion_expirada": "Deine Sitzung ist beendet. Melde dich erneut an, um weiterhin aktuelle Daten zu sehen."
 }
