@@ -4482,5 +4482,11 @@
   "err.signup_disabled": "Die öffentliche Registrierung ist geschlossen. Bitte einen Administrator um eine Einladung.",
   "acc.hd.license_active": "Aktive Lizenz:",
   "acc.hd.blocker.license": "Lizenz",
-  "acc.hd.blocker.proxy": "Proxy"
+  "acc.hd.blocker.proxy": "Proxy",
+  "acc.sky.save_transport": "Transport speichern",
+  "acc.js.sky_transport_saved": "Transport gespeichert",
+  "acc.antiguos.titulo": "Dieses Konto nutzt die alten Einstellungen",
+  "acc.antiguos.texto": "Es läuft weiter wie bisher, aber diese Einstellungen werden hier nicht mehr bearbeitet. Um zu ändern, was das Konto macht, wähle eine Routine in der Aufgabenverwaltung.",
+  "acc.antiguos.boton": "Aufgabenverwaltung öffnen",
+  "err.ajustes_antiguos_admin": "Die alten Einstellungen können hier nicht mehr bearbeitet werden: Um zu ändern, was das Konto macht, wähle eine Routine in der Aufgabenverwaltung."
 }

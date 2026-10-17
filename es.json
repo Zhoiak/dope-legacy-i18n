@@ -4482,5 +4482,11 @@
   "err.signup_disabled": "El registro público está cerrado. Pide una invitación al administrador.",
   "acc.hd.license_active": "Licencia activa:",
   "acc.hd.blocker.license": "licencia",
-  "acc.hd.blocker.proxy": "proxy"
+  "acc.hd.blocker.proxy": "proxy",
+  "acc.sky.save_transport": "Guardar el transporte",
+  "acc.js.sky_transport_saved": "Transporte guardado",
+  "acc.antiguos.titulo": "Esta cuenta usa los ajustes antiguos",
+  "acc.antiguos.texto": "Sigue funcionando igual, pero esos ajustes ya no se editan aquí. Para cambiar lo que hace la cuenta, elige una rutina en el Gestor de tareas.",
+  "acc.antiguos.boton": "Abrir el Gestor de tareas",
+  "err.ajustes_antiguos_admin": "Los ajustes antiguos ya no se editan desde aquí: para cambiar lo que hace la cuenta, elige una rutina en el Gestor de tareas."
 }

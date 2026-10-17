@@ -4482,5 +4482,11 @@
   "err.signup_disabled": "Herkese açık kayıt kapalı. Bir yöneticiden davet iste.",
   "acc.hd.license_active": "Aktif lisans:",
   "acc.hd.blocker.license": "lisans",
-  "acc.hd.blocker.proxy": "proxy"
+  "acc.hd.blocker.proxy": "proxy",
+  "acc.sky.save_transport": "Taşımayı kaydet",
+  "acc.js.sky_transport_saved": "Taşıma kaydedildi",
+  "acc.antiguos.titulo": "Bu hesap eski ayarları kullanıyor",
+  "acc.antiguos.texto": "Aynı şekilde çalışmaya devam ediyor, ancak bu ayarlar artık burada düzenlenmiyor. Hesabın ne yaptığını değiştirmek için Görev yöneticisinde bir rutin seç.",
+  "acc.antiguos.boton": "Görev yöneticisini aç",
+  "err.ajustes_antiguos_admin": "Eski ayarlar artık burada düzenlenemez: hesabın ne yaptığını değiştirmek için Görev yöneticisinde bir rutin seç."
 }

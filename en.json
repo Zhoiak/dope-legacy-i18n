@@ -4482,5 +4482,11 @@
   "err.signup_disabled": "Public sign-up is closed. Ask an administrator for an invitation.",
   "acc.hd.license_active": "Active license:",
   "acc.hd.blocker.license": "license",
-  "acc.hd.blocker.proxy": "proxy"
+  "acc.hd.blocker.proxy": "proxy",
+  "acc.sky.save_transport": "Save transport settings",
+  "acc.js.sky_transport_saved": "Transport settings saved",
+  "acc.antiguos.titulo": "This account uses the old settings",
+  "acc.antiguos.texto": "It keeps working the same way, but those settings are no longer edited here. To change what the account does, pick a routine in the Task manager.",
+  "acc.antiguos.boton": "Open the Task manager",
+  "err.ajustes_antiguos_admin": "The old settings can no longer be edited here: to change what the account does, pick a routine in the Task manager."
 }
