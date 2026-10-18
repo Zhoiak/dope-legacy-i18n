@@ -4484,9 +4484,21 @@
   "acc.hd.blocker.license": "lisans",
   "acc.hd.blocker.proxy": "proxy",
   "acc.sky.save_transport": "Taşımayı kaydet",
+  "acc.sky.save_refine": "Rafinajı kaydet",
+  "acc.sky.refine_auto_note": "«Auto» ile asistan, malzeme varsa her 30 sn kendi kendine rafine eder; rutinlerle de çalışır.",
+  "acc.js.sky_refine_saved": "Rafinaj kaydedildi",
   "acc.js.sky_transport_saved": "Taşıma kaydedildi",
   "acc.antiguos.titulo": "Bu hesap eski ayarları kullanıyor",
   "acc.antiguos.texto": "Aynı şekilde çalışmaya devam ediyor, ancak bu ayarlar artık burada düzenlenmiyor. Hesabın ne yaptığını değiştirmek için Görev yöneticisinde bir rutin seç.",
   "acc.antiguos.boton": "Görev yöneticisini aç",
-  "err.ajustes_antiguos_admin": "Eski ayarlar artık burada düzenlenemez: hesabın ne yaptığını değiştirmek için Görev yöneticisinde bir rutin seç."
+  "err.ajustes_antiguos_admin": "Eski ayarlar artık burada düzenlenemez: hesabın ne yaptığını değiştirmek için Görev yöneticisinde bir rutin seç.",
+  "acc.vc.en_gestor": "Bu, Görev yöneticisinde, bu hesabın ayarlarında yapılandırılır.",
+  "acc.vc.ajustes_cuenta": "Bu hesabın ayarları",
+  "acc.js.auc_ab_gestor_t": "otomatik teklif, Görev yöneticisinde bu hesabın ayarlarında yapılandırılır",
+  "err.en_el_gestor": "Bu, Görev yöneticisinde, bu hesabın ayarlarında yapılandırılır.",
+  "acc.win.pilot": "Pilot kartı",
+  "acc.win.refinery": "Rafineri",
+  "acc.win.assembly": "Atölye",
+  "acc.win.auction": "Müzayede",
+  "acc.win.dispatch": "Sevkiyat"
 }

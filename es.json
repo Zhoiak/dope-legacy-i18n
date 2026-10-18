@@ -4484,9 +4484,21 @@
   "acc.hd.blocker.license": "licencia",
   "acc.hd.blocker.proxy": "proxy",
   "acc.sky.save_transport": "Guardar el transporte",
+  "acc.sky.save_refine": "Guardar el refinado",
+  "acc.sky.refine_auto_note": "Con «Auto», el asistente refina solo cada 30 s si hay materiales, también con las rutinas.",
+  "acc.js.sky_refine_saved": "Refinado guardado",
   "acc.js.sky_transport_saved": "Transporte guardado",
   "acc.antiguos.titulo": "Esta cuenta usa los ajustes antiguos",
   "acc.antiguos.texto": "Sigue funcionando igual, pero esos ajustes ya no se editan aquí. Para cambiar lo que hace la cuenta, elige una rutina en el Gestor de tareas.",
   "acc.antiguos.boton": "Abrir el Gestor de tareas",
-  "err.ajustes_antiguos_admin": "Los ajustes antiguos ya no se editan desde aquí: para cambiar lo que hace la cuenta, elige una rutina en el Gestor de tareas."
+  "err.ajustes_antiguos_admin": "Los ajustes antiguos ya no se editan desde aquí: para cambiar lo que hace la cuenta, elige una rutina en el Gestor de tareas.",
+  "acc.vc.en_gestor": "Esto se configura en el Gestor de tareas, en los ajustes de esta cuenta.",
+  "acc.vc.ajustes_cuenta": "Ajustes de esta cuenta",
+  "acc.js.auc_ab_gestor_t": "la auto-puja se configura en el Gestor de tareas, en los ajustes de esta cuenta",
+  "err.en_el_gestor": "Esto se configura en el Gestor de tareas, en los ajustes de esta cuenta.",
+  "acc.win.pilot": "Ficha del piloto",
+  "acc.win.refinery": "Refinería",
+  "acc.win.assembly": "Taller",
+  "acc.win.auction": "Subasta",
+  "acc.win.dispatch": "Despachador"
 }

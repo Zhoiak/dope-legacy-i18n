@@ -4484,9 +4484,21 @@
   "acc.hd.blocker.license": "license",
   "acc.hd.blocker.proxy": "proxy",
   "acc.sky.save_transport": "Save transport settings",
+  "acc.sky.save_refine": "Save refining",
+  "acc.sky.refine_auto_note": "With «Auto», the assistant refines on its own every 30 s when there are materials, also with routines.",
+  "acc.js.sky_refine_saved": "Refining saved",
   "acc.js.sky_transport_saved": "Transport settings saved",
   "acc.antiguos.titulo": "This account uses the old settings",
   "acc.antiguos.texto": "It keeps working the same way, but those settings are no longer edited here. To change what the account does, pick a routine in the Task manager.",
   "acc.antiguos.boton": "Open the Task manager",
-  "err.ajustes_antiguos_admin": "The old settings can no longer be edited here: to change what the account does, pick a routine in the Task manager."
+  "err.ajustes_antiguos_admin": "The old settings can no longer be edited here: to change what the account does, pick a routine in the Task manager.",
+  "acc.vc.en_gestor": "This is set up in the Task manager, in this account's settings.",
+  "acc.vc.ajustes_cuenta": "This account's settings",
+  "acc.js.auc_ab_gestor_t": "auto-bid is set up in the Task manager, in this account's settings",
+  "err.en_el_gestor": "This is set up in the Task manager, in this account's settings.",
+  "acc.win.pilot": "Pilot sheet",
+  "acc.win.refinery": "Refinery",
+  "acc.win.assembly": "Assembly",
+  "acc.win.auction": "Auction",
+  "acc.win.dispatch": "Dispatch"
 }

@@ -4484,9 +4484,21 @@
   "acc.hd.blocker.license": "Lizenz",
   "acc.hd.blocker.proxy": "Proxy",
   "acc.sky.save_transport": "Transport speichern",
+  "acc.sky.save_refine": "Veredelung speichern",
+  "acc.sky.refine_auto_note": "Mit «Auto» veredelt der Assistent alle 30 s selbst, wenn Material da ist, auch mit Routinen.",
+  "acc.js.sky_refine_saved": "Veredelung gespeichert",
   "acc.js.sky_transport_saved": "Transport gespeichert",
   "acc.antiguos.titulo": "Dieses Konto nutzt die alten Einstellungen",
   "acc.antiguos.texto": "Es läuft weiter wie bisher, aber diese Einstellungen werden hier nicht mehr bearbeitet. Um zu ändern, was das Konto macht, wähle eine Routine in der Aufgabenverwaltung.",
   "acc.antiguos.boton": "Aufgabenverwaltung öffnen",
-  "err.ajustes_antiguos_admin": "Die alten Einstellungen können hier nicht mehr bearbeitet werden: Um zu ändern, was das Konto macht, wähle eine Routine in der Aufgabenverwaltung."
+  "err.ajustes_antiguos_admin": "Die alten Einstellungen können hier nicht mehr bearbeitet werden: Um zu ändern, was das Konto macht, wähle eine Routine in der Aufgabenverwaltung.",
+  "acc.vc.en_gestor": "Das wird in der Aufgabenverwaltung eingerichtet, in den Einstellungen dieses Kontos.",
+  "acc.vc.ajustes_cuenta": "Einstellungen dieses Kontos",
+  "acc.js.auc_ab_gestor_t": "das automatische Bieten wird in der Aufgabenverwaltung eingerichtet, in den Einstellungen dieses Kontos",
+  "err.en_el_gestor": "Das wird in der Aufgabenverwaltung eingerichtet, in den Einstellungen dieses Kontos.",
+  "acc.win.pilot": "Pilotenblatt",
+  "acc.win.refinery": "Raffinerie",
+  "acc.win.assembly": "Werkstatt",
+  "acc.win.auction": "Auktion",
+  "acc.win.dispatch": "Dispatcher"
 }
