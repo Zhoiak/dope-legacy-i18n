@@ -2586,6 +2586,7 @@
   "acc.sky.transport_sending": "Transport accepted, sending…",
   "acc.sky.transport_title": "TRANSPORT TO SHIP",
   "acc.sky.upgrade_equip": "UPGRADE EQUIPMENT (LAB)",
+  "acc.sky.auto_upgrade": "Automatic upgrade",
   "acc.sky.wait_empty": "Wait until it runs out",
   "acc.sl.labs_title": "Refine · Upgrade",
   "acc.sl.tab_labs": "Labs",

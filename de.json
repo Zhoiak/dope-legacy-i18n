@@ -1199,6 +1199,7 @@
   "acc.sky.refine_intro": "<b>Veredeln</b> (mit der Zahl daneben) = produziert diese Menge einmal, jetzt. <b>Auto</b> = der Assistent veredelt automatisch <b>alles verfügbare Material</b> dieses Erzes alle ~30 s (die Zahl beeinflusst Auto nicht) und prüft zuerst, ob du die Rohmaterialien hast.",
   "acc.sky.btn_refine": "Veredeln",
   "acc.sky.upgrade_equip": "AUSRÜSTUNG AUFWERTEN (LABOR)",
+  "acc.sky.auto_upgrade": "Automatische Aufwertung",
   "acc.sky.item_status": "Aktueller Status jedes Items:",
   "acc.sky.expand_note": "Erweitere ein Item, um Erz manuell zu laden, oder konfiguriere die Auto-Aufwertung (der Assistent füllt mit dem höchstpriorisierten Erz nach, wenn der Wert unter die Schwelle fällt; Laden überschreibt die vorherige Aufwertung).",
   "acc.sky.split_q": "Wenn das Erz für mehrere Items gleichzeitig knapp ist:",

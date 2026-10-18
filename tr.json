@@ -1199,6 +1199,7 @@
   "acc.sky.refine_intro": "<b>Rafine et</b> (yanındaki sayıyla) = o miktarı bir kez, şimdi üretir. <b>Auto</b> = asistan her ~30 saniyede bir o cevherin <b>mevcut tüm malzemesini</b> otomatik olarak rafine eder (sayı Auto'yu etkilemez), önce ham maddelerin olup olmadığını kontrol eder.",
   "acc.sky.btn_refine": "Rafine et",
   "acc.sky.upgrade_equip": "EKİPMAN YÜKSELTME (LAB)",
+  "acc.sky.auto_upgrade": "Otomatik yükseltme",
   "acc.sky.item_status": "Her ekipmanın mevcut durumu:",
   "acc.sky.expand_note": "Cevheri elle yüklemek veya otomatik yükseltmeyi ayarlamak için bir ekipmanı genişlet (asistan, değer eşiğin altına düşünce en yüksek öncelikli cevherle yeniden doldurur; yükleme önceki yükseltmenin üzerine yazar).",
   "acc.sky.split_q": "Aynı anda birden çok ekipman için cevher yetersizse:",
