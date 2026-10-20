@@ -4466,6 +4466,7 @@
   "usermenu.support_pendiente": "Dein Discord-Konto ist noch nicht verknüpft",
   "acc.tab.live": "Live",
   "acc.tab.config": "Einstellungen",
+  "acc.tab.config_antiguos": "Alte Einstellungen",
   "acc.tab.stats": "Statistiken",
   "acc.tab.logs": "Protokoll",
   "store.per_day": "/Tag",

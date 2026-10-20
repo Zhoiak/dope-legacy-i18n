@@ -4466,6 +4466,7 @@
   "usermenu.support_pendiente": "Discord hesabın henüz bağlanmadı",
   "acc.tab.live": "Canlı",
   "acc.tab.config": "Ayarlar",
+  "acc.tab.config_antiguos": "Eski ayarlar",
   "acc.tab.stats": "İstatistikler",
   "acc.tab.logs": "Kayıtlar",
   "store.per_day": "/gün",

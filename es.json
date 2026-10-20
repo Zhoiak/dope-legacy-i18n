@@ -4466,6 +4466,7 @@
   "acc.js.income_rinusk": "Rinusk",
   "acc.tab.live": "En vivo",
   "acc.tab.config": "Configuración",
+  "acc.tab.config_antiguos": "Ajustes antiguos",
   "acc.tab.stats": "Estadísticas",
   "acc.tab.logs": "Registro",
   "store.per_day": "/día",
