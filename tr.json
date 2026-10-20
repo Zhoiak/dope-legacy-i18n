@@ -587,6 +587,7 @@
   "err.load_hint.refused": "bağlantı reddedildi — sunucu bu adreste yanıt vermiyor",
   "err.load_retry": "deneme {{.A0}}/{{.A1}} başarısız — {{.A2}} sonra yeniden denenecek…",
   "err.load_transient": "birkaç denemeden sonra harici hata ({{.A0}}) — hesap etkin kalıyor; proxy'yi veya IP'yi kontrol et: {{.A1}}",
+  "err.captcha_tope": "duraklatıldı: 24 saatte giriş için {{.A0}} captcha gerekti (sınır {{.A1}}). Genellikle bir yeniden bağlanma döngüsüdür (proxy ya da sunucu); günlüğü kontrol edip yeniden başlat",
   "err.load_transient_retry": "harici hata ({{.A0}}) — sabırlı yeniden deneme {{.A1}}, {{.A2}} sonra…",
   "err.gave_up": "{{.A0}} ardışık hatanın ardından vazgeçildi",
   "err.retrying": "{{.A0}} sonra yeniden denenecek…",

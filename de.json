@@ -587,6 +587,7 @@
   "err.load_hint.refused": "Verbindung abgelehnt — der Server antwortet unter dieser Adresse nicht",
   "err.load_retry": "Versuch {{.A0}}/{{.A1}} fehlgeschlagen — erneuter Versuch in {{.A2}}…",
   "err.load_transient": "Externer Fehler ({{.A0}}) nach mehreren Versuchen — das Konto bleibt aktiviert; prüfe den Proxy oder die IP: {{.A1}}",
+  "err.captcha_tope": "pausiert: {{.A0}} Captchas zum Anmelden in 24 h (Limit {{.A1}}). Meist eine Wiederverbindungsschleife (Proxy oder Server); prüfe das Protokoll und starte es erneut",
   "err.load_transient_retry": "Externer Fehler ({{.A0}}) — geduldiger Versuch {{.A1}} in {{.A2}}…",
   "err.gave_up": "nach {{.A0}} aufeinanderfolgenden Fehlern aufgegeben",
   "err.retrying": "erneuter Versuch in {{.A0}}…",

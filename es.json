@@ -3475,6 +3475,7 @@
   "err.load_hint.timeout": "sin respuesta al conectar (timeout) — reintenta; puede ser el proxy lento o el servidor saturado",
   "err.load_retry": "intento {{.A0}}/{{.A1}} falló — reintentando en {{.A2}}…",
   "err.load_transient": "fallo externo ({{.A0}}) tras varios reintentos — la cuenta sigue habilitada; revisa el proxy o la IP: {{.A1}}",
+  "err.captcha_tope": "en pausa: necesitó {{.A0}} captchas para iniciar sesión en 24 h (tope {{.A1}}). Suele ser una reconexión en bucle (el proxy o el servidor); revisa el registro y vuelve a iniciarla",
   "err.load_transient_retry": "fallo externo ({{.A0}}) — reintento paciente {{.A1}} en {{.A2}}…",
   "err.login.bad_credentials": "Email o contraseña incorrectos.",
   "err.login.captcha_failed": "Verificación de seguridad fallida — prueba de nuevo.",

@@ -3475,6 +3475,7 @@
   "err.load_hint.timeout": "no response while connecting (timeout) — retry; may be a slow proxy or an overloaded server",
   "err.load_retry": "attempt {{.A0}}/{{.A1}} failed — retrying in {{.A2}}…",
   "err.load_transient": "external failure ({{.A0}}) after several retries — the account stays enabled; check the proxy or IP: {{.A1}}",
+  "err.captcha_tope": "paused: it needed {{.A0}} captchas to sign in within 24 h (limit {{.A1}}). This is usually a reconnect loop (the proxy or the server); check the log and start it again",
   "err.load_transient_retry": "external failure ({{.A0}}) — patient retry {{.A1}} in {{.A2}}…",
   "err.login.bad_credentials": "Incorrect email or password.",
   "err.login.captcha_failed": "Security check failed — please try again.",
