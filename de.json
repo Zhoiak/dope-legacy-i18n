@@ -3765,6 +3765,8 @@
   "acc.task.stuck_cargo_trader": "Frachtraum voll, Verkauf nicht möglich: Die Frachthändler-Ausrüstung des P.E.T. fehlt",
   "acc.task.stuck_cargo": "Frachtraum voll, Verkauf nicht möglich",
   "acc.task.stuck_trinity": "Trinity Trials nicht möglich: keine Token und kein Gratisversuch",
+  "acc.task.stuck_hangar": "Die Routine nutzt Hangar {a} ({r}) und dieses Konto hat dieses Schiff nicht: Wähle seinen Hangar in den Einstellungen dieses Kontos, Schiffe der Routine",
+  "acc.task.stuck_palladium52": "Kann kein Palladium verkaufen: Das Verkaufsschiff ist in {r} und nicht in 5-2. Fliege es nach 5-2",
   "acc.task.warn_spinner": "Der Tor-Spinner ist nicht aktiviert",
   "acc.task.mode_timetable": "Zeitplan",
   "acc.task.mode_gates": "Tormodus",

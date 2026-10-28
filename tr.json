@@ -3765,6 +3765,8 @@
   "acc.task.stuck_cargo_trader": "Kargo dolu ve satış yapılamıyor: P.E.T. kargo tüccarı donanımı eksik",
   "acc.task.stuck_cargo": "Kargo dolu ve satış yapılamıyor",
   "acc.task.stuck_trinity": "Trinity Trials'a girilemiyor: jeton ve ücretsiz deneme yok",
+  "acc.task.stuck_hangar": "Rutin {a} numaralı hangarı ({r}) kullanıyor ve bu hesapta o gemi yok: Bu hesabın ayarları, Rutinin gemileri bölümünden hangarını seç",
+  "acc.task.stuck_palladium52": "Paladyum satılamıyor: satış gemisi 5-2'de değil {r} içinde. Onu 5-2'ye götür",
   "acc.task.warn_spinner": "Kapı çevirici etkin değil",
   "acc.task.mode_timetable": "Zaman çizelgesi",
   "acc.task.mode_gates": "Kapı modu",

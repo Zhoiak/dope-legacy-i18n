@@ -4460,6 +4460,8 @@
   "acc.task.stuck_cargo_trader": "Bodega llena y no puede vender: falta el equipo de comercio de carga del P.E.T.",
   "acc.task.stuck_cargo": "Bodega llena y no puede vender",
   "acc.task.stuck_trinity": "No puede entrar en Trinity Trials: sin fichas ni intento gratis",
+  "acc.task.stuck_hangar": "La rutina usa el hangar {a} ({r}) y esta cuenta no tiene esa nave: elige su hangar en Ajustes de esta cuenta, Naves de la rutina",
+  "acc.task.stuck_palladium52": "No puede vender el paladio: la nave de vender está en {r} y no en 5-2. Llévala al 5-2",
   "acc.task.warn_spinner": "El girador de puertas no está activado",
   "acc.task.mode_timetable": "Horario",
   "acc.task.mode_gates": "Modo puertas",

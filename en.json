@@ -4460,6 +4460,8 @@
   "acc.task.stuck_cargo_trader": "Cargo hold full and cannot sell: the P.E.T. cargo trader gear is missing",
   "acc.task.stuck_cargo": "Cargo hold full and cannot sell",
   "acc.task.stuck_trinity": "Cannot enter Trinity Trials: no tokens and no free attempt",
+  "acc.task.stuck_hangar": "The routine uses hangar {a} ({r}) and this account does not have that ship: choose its hangar in This account's settings, Routine ships",
+  "acc.task.stuck_palladium52": "Cannot sell palladium: the selling ship is in {r}, not in 5-2. Fly it to 5-2",
   "acc.task.warn_spinner": "The gate spinner is not enabled",
   "acc.task.mode_timetable": "Timetable",
   "acc.task.mode_gates": "Gate mode",
