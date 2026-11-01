@@ -3097,6 +3097,7 @@
   "account_edit.sec_view": "Opciones de vista",
   "account_edit.title": "Editar cuenta",
   "account_edit.username_label": "Usuario del videojuego",
+  "account_edit.proxy_pc_hint": "En tu PC el proxy es opcional: sin él, la cuenta usa la conexión de tu equipo. Elige uno solo si quieres que salga por otra IP.",
   "account_new.cancel": "Cancelar",
   "account_new.disclaimer": "Las credenciales se guardan cifradas. El asistente arranca <b>parado</b>; lo inicias desde la cuenta. Aviso: usa cuentas de prueba — automatizar el juego tiene riesgo de baneo.",
   "account_new.intro": "Introduce el usuario y la contraseña de tu cuenta del videojuego.",

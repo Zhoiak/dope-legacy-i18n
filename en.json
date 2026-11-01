@@ -3097,6 +3097,7 @@
   "account_edit.sec_view": "View options",
   "account_edit.title": "Edit account",
   "account_edit.username_label": "Game username",
+  "account_edit.proxy_pc_hint": "On your PC a proxy is optional: without one, the account uses your computer's connection. Pick one only if you want it to go out through another IP.",
   "account_new.cancel": "Cancel",
   "account_new.disclaimer": "Credentials are stored encrypted. The assistant starts <b>paused</b>; you start it from the account. Notice: use test accounts — automating the game carries a ban risk.",
   "account_new.intro": "Enter your game account username and password.",

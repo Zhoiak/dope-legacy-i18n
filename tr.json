@@ -4221,6 +4221,7 @@
   "account_edit.push_group_label": "«Group Gate Updates» için Discord webhook'u",
   "account_edit.push_group_clear": "«Group Gate Updates» webhook'unu kaldır",
   "account_edit.push_group_hint": "İsteğe bağlı: grup gate'i özetinin kanalı (Hades ve Q-Zone); üyeler, ortalama süre ve tamamlanan gate'lerle sürekli düzenlenen bir mesaj. Yalnızca Discord webhook'u. Rutinde açılır («Session state» bloğu).",
+  "account_edit.proxy_pc_hint": "PC'nde proxy isteğe bağlıdır: proxy olmadan hesap bilgisayarının bağlantısını kullanır. Yalnızca başka bir IP'den çıkmasını istiyorsan birini seç.",
   "push.titulo": "DOPE Legacy",
   "push.grupo.readmitirInactivo": "Hareketsizlik nedeniyle çıkarılan üye yeniden kabul ediliyor ({{.A0}})",
   "push.grupo.retirarInactivo": "{{.A0}} {{.A1}} saniye boyunca davet edilemedi: gruptan çıkarıldı",

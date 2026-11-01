@@ -4221,6 +4221,7 @@
   "account_edit.push_group_label": "Discord-Webhook für „Group Gate Updates“",
   "account_edit.push_group_clear": "Webhook für „Group Gate Updates“ entfernen",
   "account_edit.push_group_hint": "Optional: der Kanal für die Zusammenfassung des Gruppen-Tors (Hades und die Q-Zone), eine Nachricht, die laufend mit den Mitgliedern, der Durchschnittszeit und den abgeschlossenen Toren aktualisiert wird. Nur ein Discord-Webhook. Wird in der Routine eingeschaltet (Baustein „Session state“).",
+  "account_edit.proxy_pc_hint": "Auf deinem PC ist ein Proxy optional: ohne ihn nutzt das Konto die Verbindung deines Computers. Wähle nur einen, wenn es über eine andere IP gehen soll.",
   "push.titulo": "DOPE Legacy",
   "push.grupo.readmitirInactivo": "Das wegen Inaktivität entfernte Mitglied wird wieder aufgenommen ({{.A0}})",
   "push.grupo.retirarInactivo": "{{.A0}} konnte {{.A1}} Sekunden lang nicht eingeladen werden: aus der Gruppe entfernt",
