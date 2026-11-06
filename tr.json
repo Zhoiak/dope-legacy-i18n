@@ -3795,6 +3795,7 @@
   "acc.task.warn_lives": "Kapılara girmek için yeterli can yok",
   "acc.task.warn_trader": "P.E.T. kargo tüccarı donanımı eksik",
   "acc.task.stuck_palladiumDeaths": "Satış gemisi 5-2 dışında 3 kez yok edildi ve durdu: ona bir tamir robotu tak ve hesabı yeniden başlat ya da elle 5-2'ye götür",
+  "acc.task.stuck_petFuel": "P.E.T. çıkamıyor: yakıtı yok. Oyunda yakıt al ya da rutinin otomatik alımında PET-FUEL’i işaretle",
   "acc.task.stuck_repair": "Onarım sırasında can artmıyor (%{a}, {b} dakikadır): Gemide onarım robotu var mı?",
   "acc.task.stuck_cargo_trader": "Kargo dolu ve satış yapılamıyor: P.E.T. kargo tüccarı donanımı eksik",
   "acc.task.stuck_cargo": "Kargo dolu ve satış yapılamıyor",

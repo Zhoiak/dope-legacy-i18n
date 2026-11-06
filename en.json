@@ -4523,6 +4523,7 @@
   "acc.task.warn_lives": "Not enough lives left to enter the gates",
   "acc.task.warn_trader": "The P.E.T. cargo trader gear is missing",
   "acc.task.stuck_palladiumDeaths": "The selling ship died 3 times outside 5-2 and stopped: give it a repair robot and restart the account, or fly it to 5-2 by hand",
+  "acc.task.stuck_petFuel": "The P.E.T. cannot come out: it has no fuel. Refuel it in the game or tick PET-FUEL in the config’s auto-buy",
   "acc.task.stuck_repair": "Hull points are not rising while repairing ({a}% for {b} min): does the ship have a repair robot?",
   "acc.task.stuck_cargo_trader": "Cargo hold full and cannot sell: the P.E.T. cargo trader gear is missing",
   "acc.task.stuck_cargo": "Cargo hold full and cannot sell",
