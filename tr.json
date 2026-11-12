@@ -1,4 +1,7 @@
 {
+  "inventory.beneficio_beta_tester": "Beta test kullanıcısı avantajı",
+  "inventory.beneficio_moderator": "Moderatör avantajı",
+  "inventory.beneficio_se_renueva": "Rol sende olduğu sürece kendiliğinden yenilenir",
   "language.name": "Türkçe",
   "nav.home": "Ana sayfa",
   "home.tab_news": "Haberler",

@@ -1,4 +1,7 @@
 {
+  "inventory.beneficio_beta_tester": "Beta-Tester-Vorteil",
+  "inventory.beneficio_moderator": "Moderator-Vorteil",
+  "inventory.beneficio_se_renueva": "Verlängert sich von selbst, solange du die Rolle hast",
   "language.name": "Deutsch",
   "nav.home": "Start",
   "home.tab_news": "Neuigkeiten",
