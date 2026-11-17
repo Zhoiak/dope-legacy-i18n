@@ -3566,6 +3566,7 @@
   "err.profile_json_invalid": "JSON invalide : ",
   "err.profile_last": "vous ne pouvez pas supprimer le seul profile du compte",
   "err.proxy_broken": "Proxy endommagé ou données incorrectes — il ne répond pas sur le réseau. Vérifiez l'hôte, le port, le nom d'utilisateur et le mot de passe.",
+  "err.proxy_auth": "Le proxy a refusé le nom d'utilisateur ou le mot de passe : il répond, mais n'accepte pas ces identifiants. Copiez le nom d'utilisateur et le mot de passe DU PROXY depuis le tableau de bord de votre fournisseur (pas ceux de votre compte de jeu ni de votre compte chez le fournisseur). Si votre fournisseur autorise par IP, passez à l'authentification par nom d'utilisateur et mot de passe. Si votre offre a expiré, renouvelez-la.",
   "err.proxy_change_running": "Vous ne pouvez pas changer le proxy pendant que le compte tourne — arrêtez-le avec Stop, assignez le nouveau proxy et relancez-le avec Start. Le socket actuel est déjà lié à l'ancienne route et le changement ne s'appliquera qu'à la prochaine connexion.",
   "err.proxy_in_use_running": "Impossible de supprimer le proxy : un compte connecté l'utilise (%s). Arrêtez d'abord ce compte, puis réessayez.",
   "err.refund.invalid_id": "id invalide",

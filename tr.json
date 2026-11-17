@@ -588,6 +588,7 @@
   "login.submit": "Giriş yap",
   "err.proxy_change_running": "Hesap çalışırken proxy'yi değiştiremezsin — Stop ile durdur, yeni proxy'yi ata ve tekrar Start'a bas. Mevcut soket hâlâ önceki rotaya bağlı; değişiklik ancak bir sonraki bağlantıda uygulanır.",
   "err.proxy_broken": "Bozuk proxy veya hatalı bilgiler — ağ üzerinden yanıt vermiyor. Host, port, kullanıcı adı ve şifreyi kontrol et.",
+  "err.proxy_auth": "Proxy kullanıcı adını veya şifreyi reddetti: proxy yanıt veriyor ama bu bilgileri kabul etmiyor. Sağlayıcının panelinden PROXY kullanıcı adını ve şifresini kopyala (oyun hesabının ya da sağlayıcı hesabının giriş bilgilerini değil). Sağlayıcın IP ile yetkilendirme kullanıyorsa kullanıcı adı ve şifreye geç. Planın sona erdiyse yenile.",
   "err.idle_disconnect": "Hareketsizlik nedeniyle bağlantı kesildi — Start ile devam et",
   "err.autoreconnect_off": "Sunucuyla bağlantı kesildi ve „bağlantı koparsa yeniden gir“ kapalı — Start ile başlat",
   "err.autowake_off": "auto_wake_up=off — deploy hesabı durdurdu; devam etmek için Load'a tıkla",

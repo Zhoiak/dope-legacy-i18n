@@ -3566,6 +3566,7 @@
   "err.profile_json_invalid": "Invalid JSON: ",
   "err.profile_last": "you can't delete the account's only profile",
   "err.proxy_broken": "Broken proxy or incorrect details — it doesn't respond over the network. Check host, port, username and password.",
+  "err.proxy_auth": "The proxy rejected the username or password: it answers, but does not accept those details. Copy the PROXY username and password from your provider's dashboard (not your game account or your provider account login). If your provider authorizes by IP, switch to username and password. If your plan expired, renew it.",
   "err.proxy_change_running": "You can't change the proxy while the account is running — Stop it, assign the new proxy and Start again. The live socket is already bound to the previous route; the change only applies on the next connect.",
   "err.proxy_in_use_running": "Can't delete the proxy: a connected account is using it right now (%s). Stop that account first, then try again.",
   "err.refund.invalid_id": "invalid id",

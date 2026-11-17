@@ -588,6 +588,7 @@
   "login.submit": "Anmelden",
   "err.proxy_change_running": "Du kannst den Proxy nicht ändern, während das Konto läuft — stoppe es, weise den neuen Proxy zu und starte erneut. Der aktive Socket ist bereits an die vorherige Route gebunden; die Änderung greift erst bei der nächsten Verbindung.",
   "err.proxy_broken": "Defekter Proxy oder falsche Angaben — er antwortet nicht über das Netzwerk. Prüfe Host, Port, Benutzername und Passwort.",
+  "err.proxy_auth": "Der Proxy hat Benutzername oder Passwort abgelehnt: Er antwortet, akzeptiert diese Daten aber nicht. Kopiere Benutzername und Passwort DES PROXYS aus dem Panel deines Anbieters (nicht die deines Spielkontos oder deines Anbieterkontos). Wenn dein Anbieter per IP autorisiert, stelle auf Benutzername und Passwort um. Ist dein Tarif abgelaufen, verlängere ihn.",
   "err.idle_disconnect": "Wegen Inaktivität getrennt — mit Start fortsetzen",
   "err.autoreconnect_off": "Vom Server getrennt, „bei Verbindungsverlust wieder einsteigen“ ist aus — mit Start starten",
   "err.autowake_off": "auto_wake_up=off — das Deployment hat das Konto gestoppt; klicke auf Load zum Fortsetzen",

@@ -3566,6 +3566,7 @@
   "err.profile_json_invalid": "JSON inválido: ",
   "err.profile_last": "no puedes borrar el único profile de la cuenta",
   "err.proxy_broken": "Proxy dañado o datos incorrectos — no responde a través de la red. Verifica host, puerto, usuario y contraseña.",
+  "err.proxy_auth": "El proxy rechazó el usuario o la contraseña: responde, pero no acepta esos datos. Copia el usuario y la contraseña DEL PROXY desde el panel de tu proveedor (no los de tu cuenta del juego ni los de tu cuenta del proveedor). Si tu proveedor autoriza por IP, cambia a usuario y contraseña. Si tu plan caducó, renuévalo.",
   "err.proxy_change_running": "No puedes cambiar el proxy con la cuenta corriendo — párala con Stop, asigna el proxy nuevo y dale Start. El socket actual ya está atado a la ruta anterior y solo se aplica el cambio en la próxima conexión.",
   "err.proxy_in_use_running": "No se puede borrar el proxy: lo está usando una cuenta conectada (%s). Detén esa cuenta primero y vuelve a intentar.",
   "err.refund.invalid_id": "id inválido",
